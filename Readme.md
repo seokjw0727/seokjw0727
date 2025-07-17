@@ -1,8 +1,7 @@
-### 석지우
-#### 학부 연구생, 양자 광학 및 양자 정보 연구실
-
 <div align="center">
-  🗝️ 키워드
-  <br>
-  이산수학, 양자정보학, 이론 컴퓨터과학
+
+### Seok Jiwoo <br>
+💡Interested: Quantum Information Science, Graph Theory (Discrete mathematics)
+
+
 </div>
