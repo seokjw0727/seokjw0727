@@ -1,7 +1,8 @@
 <div align="center">
 
 ### Seok Jiwoo <br>
-💡Interested: Quantum Information Science, Graph Theory (Discrete mathematics)
+💡Interested: Quantum Information Science, Combinatorial optimization
 
 
 </div>
+
