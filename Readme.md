@@ -12,6 +12,6 @@
 - [Explore TSPLIB95](https://exploretsp.netlify.app/)
 
 **⭐ Career**
-- 23.04~23.11 Team ZEST: Git Administrator
-- 25.07~ Quantum Optics and Quantum Information Group: Interns
+- [Portfolio](https://seokjw0727.github.io/)
   
+
