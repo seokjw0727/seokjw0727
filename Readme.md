@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Jiwoo Seok <br>
-**💡Interested:** (Quantum) Information Science, (Quantum) Simulations and Computings
+**💡Interested:** Quantum Information Science, Simulations and Computings, Quantum-Classical Hybird Algorithms
 
 </div>
 
